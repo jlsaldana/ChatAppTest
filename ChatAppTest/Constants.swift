@@ -11,7 +11,7 @@ struct Constants {
     // Type properties instead of instance where let or var defined with 'static' keyword.
     static let registerSegue = "RegisterToChat"
     static let loginSegue = "LoginToChat"
-    static let appTitle = "⚡️FlashChat"
+    static let appTitle = "Chat App"
     static let popupError = "Oops!"
     static let cellIdentifier = "ReusableCell"
     static let cellNibName = "MessageCell"
